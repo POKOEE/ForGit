@@ -9,6 +9,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
+// Session1: debug program first
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
